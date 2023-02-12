@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-svgbob-plugin",
+	"name": "SvgBob Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This enables Svgbob support in code block by writing `bob` or `svgbob`. See https://github.com/ivanceras/svgbob",
+	"author": "Adrian Opsahl",
+	"authorUrl": "https://github.com/ad-ops",
+	"fundingUrl": "https://github.com/ad-ops",
 	"isDesktopOnly": false
 }
